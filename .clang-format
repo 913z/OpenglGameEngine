@@ -1,0 +1,14 @@
+BasedOnStyle: llvm
+
+IndentWidth: 4
+TabWidth: 4
+AccessModifierOffset: -4
+
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+NamespaceIndentation: All
+
+SortIncludes: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
