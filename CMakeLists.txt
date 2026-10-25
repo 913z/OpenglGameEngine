@@ -23,7 +23,6 @@ add_executable(
     src/graphics/GraphicsAPI.cpp
     src/graphics/ShaderProgram.h
     src/graphics/ShaderProgram.cpp
-    src/render/VertexLayout.h
     src/render/VertexLayout.cpp
     src/render/Mesh.h
     src/render/Mesh.cpp
