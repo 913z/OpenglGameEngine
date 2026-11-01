@@ -26,4 +26,6 @@ add_executable(
     src/render/VertexLayout.cpp
     src/render/Mesh.h
     src/render/Mesh.cpp
+    src/render/RenderQueue.h
+    src/render/RenderQueue.cpp
 )
